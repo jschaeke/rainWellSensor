@@ -9,6 +9,6 @@ I used a wemos D1 and put the hardware (sensors and voltage converter) inside an
 # Software
 The readings are sent to an MQTT server. Im my case it's feeding a NodeRed dashboard, that I use to control my domotics, and a InfluxDB/Grafana setup for record keeping.
 
-
+![boxInside](https://i.ibb.co/YZ8cq1W/IMG-20190126-193104.jpg)
 ![sensor](https://i.ibb.co/jMdgYTL/IMG-20190125-WA0008.jpg)
 ![box](https://i.ibb.co/dJQ8yrK/IMG-20180911-191650.jpg)
