@@ -1,5 +1,5 @@
-# Rain well tank sensor
-This project is a simple sketch reading 2 sensors:
+# Rain well tank sensor MQTT
+This project is a simple sketch reading 2 sensors and publishing it to an MQTT topic:
 - DHT humidity and temperature sensor
 - JSN-SR04T ultrasonic distance sensors
 
