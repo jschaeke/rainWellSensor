@@ -15,3 +15,4 @@ The readings are sent to an MQTT server. Im my case it's feeding a NodeRed dashb
 ![boxInside](https://i.ibb.co/YZ8cq1W/IMG-20190126-193104.jpg)
 ![sensor](https://i.ibb.co/jMdgYTL/IMG-20190125-WA0008.jpg)
 ![box](https://i.ibb.co/dJQ8yrK/IMG-20180911-191650.jpg)
+![NodeRed](https://i.ibb.co/vJNrVqm/Schermafbeelding-2019-04-01-om-21-47-33.png)
