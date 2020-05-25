@@ -16,3 +16,8 @@ The readings are sent to an MQTT server. Im my case it's feeding a NodeRed dashb
 ![sensor](https://i.ibb.co/jMdgYTL/IMG-20190125-WA0008.jpg)
 ![box](https://i.ibb.co/dJQ8yrK/IMG-20180911-191650.jpg)
 ![NodeRed](https://i.ibb.co/vJNrVqm/Schermafbeelding-2019-04-01-om-21-47-33.png)
+
+# Waterproofing
+I wasn't able to waterproof the electrical box, so far this bottle seems to keep it dry:
+![box2a](https://i.ibb.co/fxq4Vt5/Whats-App-Image-2020-04-12-at-17-19-20.jpg)
+![box2b](https://i.ibb.co/rc1yXpT/Whats-App-Image-2020-04-12-at-16-59-21.jpg)
